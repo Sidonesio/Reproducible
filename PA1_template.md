@@ -1,7 +1,5 @@
 Project Assignment 1
 ================
-Sidney da S. P. Bissoli
-23/01/2021
 
 ## Data Presentation
 
