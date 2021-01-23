@@ -1,7 +1,5 @@
 ---
 title: "Project Assignment 1"
-author: "Sidney da S. P. Bissoli"
-date: "23/01/2021"
 output: github_document
 ---
 
